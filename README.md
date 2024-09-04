@@ -16,6 +16,17 @@
 ###
 
 
+
+
+<br clear="both">
+
+<div align="center">
+    <a href="https://open.spotify.com/user/12152327015">
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152327015&unique=1" alt="Easy Way Out - Low Roar" />
+    </a>
+</div>
+
+###
 ###
 
 <div align="center">
@@ -25,16 +36,6 @@
   <a href="https://www.linkedin.com/in/mayson-dos-santos-637a8431a/" target="_blank" rel="noreferrer noopener">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-    <a href="https://open.spotify.com/user/12152327015">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152327015&unique=1" alt="Easy Way Out - Low Roar" />
-    </a>
 </div>
 
 ###
