@@ -16,9 +16,10 @@
 
 <div align="center">
     <a href="https://open.spotify.com/user/12152327015">
-        <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152327015&unique=1" alt="Easy Way Out - Low Roar" />
+        <img src="https://spotify-recently-played-readme.vercel.app/api?user=12152327015&count=2&unique=1" alt="Easy Way Out - Low Roar" />
     </a>
 </div>
+
 
 ###
 ###
