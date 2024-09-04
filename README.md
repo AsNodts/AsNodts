@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Mayson I'm from Paraná, Brazil </h2>
+<h2 align="left">Hi 👋! My name is Mayson I'm from Paraná, Brazil 🇧🇷 </h2>
 🌱learning Python
 
 ###
